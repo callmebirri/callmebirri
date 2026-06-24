@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=quangg%20huyy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=System%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
 <img src="https://s13.gifyu.com/images/b719N.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
