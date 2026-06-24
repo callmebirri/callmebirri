@@ -1,5 +1,3 @@
-<img src="https://s13.gifyu.com/images/b719N.gif" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - Student who likes low-level stuff and algorithms
 - Mainly coding in C++
