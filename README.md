@@ -90,7 +90,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=hqng05)
 <br/>
 
 ## 🔗 Connect with Me
