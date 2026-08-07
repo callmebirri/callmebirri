@@ -13,13 +13,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/hqng05">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hqng05&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="hqng05's GitHub Stats" />
+  <a href="https://github.com/callmebirri">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=callmebirri&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="callmebirri's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=hqng05&theme=monokai&hide_border=true&cache_seconds=86400" alt="hqng05's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=callmebirri&theme=monokai&hide_border=true&cache_seconds=86400" alt="callmebirri's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hqng05&theme=monokai&radius=10" alt="hqng05's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=callmebirri&theme=monokai&radius=10" alt="callmebirri's Activity Graph" />
 </p>
 
 
@@ -79,8 +79,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hqng05">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hqng05&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/callmebirri">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=callmebirri&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -88,10 +88,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.youtube.com/@hqng05">
+  <a href="https://www.youtube.com/@callmebirri">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>
-  <a href="mailto:hqng05@gmail.com">
+  <a href="mailto:callmebirri@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
   <a href="https://qhuyy.tech">
