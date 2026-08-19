@@ -11,7 +11,7 @@
 - Bukkit Plugin, NMS ( idk either lol )
 
 
-![Top Languages](https://language.chart.qhuyy.tech/api/languages)
+![Top Languages](https://apii-phi.vercel.app/api/languages)
 
 <br/>
 
