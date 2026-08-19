@@ -17,4 +17,7 @@ jobs:
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard"
+          exclude_languages: ''
+          dark_mode: true
+          use_loc: true
           output_path: "stats"
