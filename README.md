@@ -11,11 +11,7 @@
 - Bukkit Plugin, NMS ( idk either lol )
 
 
-<p align="center">
-  <a href="https://github.com/callmebirri">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=callmebirri&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+![Top Languages](https://language.chart.qhuyy.tech/api/languages)
 
 <br/>
 
